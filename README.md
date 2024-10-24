@@ -70,3 +70,7 @@ Here are some of the best websites that I've created. Click on the images to vis
     </td>
   </tr>
 </table>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/saqibtahir0201/saqibtahir0201/output/snake.svg" alt="Snake animation" />
+
