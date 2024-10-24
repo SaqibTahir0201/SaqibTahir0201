@@ -23,5 +23,49 @@ I regularly share my work and updates, so be sure to check back for exciting new
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/thesaqibtahir/) to stay updated on my latest work and insights.
 
 Thanks for visiting my profile! Let's connect and build something amazing together!
+## 🌏 My Best Websites
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqibtahir0201&show_icons=true&theme=transparent)
+Here are some of the best websites that I've created. Click on the images to visit the respective sites, and click on the text to view the related LinkedIn post.
+
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Complete Anime Website</a><br>
+      <a href="https://anime-website-ecru.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/6024a035-93c7-473f-bbb6-49fd1d4fffe8" alt="anime website" width="300"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://one-piece-xi-six.vercel.app/">One Piece</a><br>
+      <a href="https://anime-website-ecru.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/51b7c9d4-1661-49ae-9777-7292a96262af" alt="one piece" width="300"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Wooble Hero Section</a><br>
+      <a href="https://wooble-hero-section.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/f3bd7100-e166-4d59-a901-9a02f7a83996" alt="wooble hero section" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Significo clone</a><br>
+      <a href="https://clone-website-significo.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/23ea7846-9662-4e4d-b750-ac21bd66b08a" alt="significo" width="300"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Cynthia Ugwu clone</a><br>
+      <a href="https://cuberto-eight.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/392b6598-3986-40d5-a10d-d04b6101ac69" alt="glassmorphism" width="300"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Cuberto clone</a><br>
+      <a href="https://cuberto-eight.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/8203b248-d54b-42c7-940f-a7e46caeacef" alt="cuberto clone" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
