@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a dedicated web developer with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **React**. Currently honing my skills at **SMIT Karachi**, I’m passionate about building engaging web experiences and exploring new technologies. I'm also expanding my expertise by learning **Next.js** to create dynamic web applications.
+I’m an enthusiastic web developer with a solid foundation in HTML, CSS, JavaScript, and React. Currently honing my skills at SMIT Karachi, I am passionate about crafting engaging web experiences and continuously exploring new technologies. I’m also expanding my expertise by mastering Next.js to build dynamic, high-performance web applications.
+
 
 ## 🚀 Skills
 
