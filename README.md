@@ -38,7 +38,7 @@ Here are some of the best websites that I've created. Click on the images to vis
     </td>
     <td style="padding: 10px;">
       <a href="https://one-piece-xi-six.vercel.app/">One Piece</a><br>
-      <a href="https://anime-website-ecru.vercel.app/">
+      <a href="https://one-piece-xi-six.vercel.app//">
         <img src="https://github.com/user-attachments/assets/51b7c9d4-1661-49ae-9777-7292a96262af" alt="one piece" width="300"/>
       </a>
     </td>
@@ -58,7 +58,7 @@ Here are some of the best websites that I've created. Click on the images to vis
     </td>
     <td style="padding: 10px;">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Cynthia Ugwu clone</a><br>
-      <a href="https://cuberto-eight.vercel.app/">
+      <a href="https://clone-website-significo-qzfo.vercel.app//">
         <img src="https://github.com/user-attachments/assets/392b6598-3986-40d5-a10d-d04b6101ac69" alt="glassmorphism" width="300"/>
       </a>
     </td>
