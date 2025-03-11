@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: 'saqibtahir0201'
+          github_user_name: 'https://github.com/SaqibTahir0201'
           outputs: dist/snake.svg?palette=github-dark
 
 
